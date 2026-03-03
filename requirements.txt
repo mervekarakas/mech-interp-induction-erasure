@@ -1,0 +1,8 @@
+torch
+transformer-lens
+einops
+numpy
+pandas
+matplotlib
+scipy
+jupyter
