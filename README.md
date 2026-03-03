@@ -135,7 +135,7 @@ Pattern matchers distribute attention roughly uniformly across prefix positions 
 ```bash
 python -m venv venv
 source venv/bin/activate
-pip install torch transformer_lens einops numpy pandas matplotlib
+pip install -r requirements.txt
 ```
 
 Run notebooks in order:
